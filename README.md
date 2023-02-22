@@ -1,11 +1,11 @@
-
-
-
 # Excel Mini-Apps with VBA Code
+
 ⚙️ _Under development_ <br>
+
 This repository contains a collection of mini-apps built in Excel with VBA code. Each mini-app is designed to perform a specific task or solve a particular problem.
 
 ## List of Mini-Apps
+- **Body Mass index Calculator**: Calculates an individual's BMI classification based on their height and weight.
 - **Weight Tracker**: Track your weight over time, set goals and visualize your progress using graphs.
 
 ## How to Use
