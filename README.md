@@ -2,7 +2,7 @@
 
 
 # Excel Mini-Apps with VBA Code
-⚙️ _Under development_
+⚙️ _Under development_ <br>
 This repository contains a collection of mini-apps built in Excel with VBA code. Each mini-app is designed to perform a specific task or solve a particular problem.
 
 ## List of Mini-Apps
@@ -19,3 +19,4 @@ If you have built a mini-app with VBA code and would like to contribute to this 
 
 ## License
 This repository is licensed under the MIT License.
+
